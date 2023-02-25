@@ -1,0 +1,20 @@
+SUMMARY:
+
+
+I am an accomplished Physicist with extensive knowledge and expertise in Data Science and Deep Learning. I recently earned my Master's Degree in Physics of Complex Systems and Big Data with a grade of 110/110 cum laude. Currently, I am employed as a Research Assistant at the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati and am working towards my PhD. My research focuses on developing Machine Learning and Data Science solutions to optimize engineering experiments. Additionally, I have written numerous technical articles for Towards Data Science, highlighting the latest Machine Learning applications and techniques and their real-world applications (60k+ monthly views). Furthermore, I am a Course Creator and Teacher for Teens in AI, having created courses in Image Processing I and Signal Processing I.
+ EXPERIENCE 0 
+
+
+Utilizing Machine Learning to develop surrogate modeling and optimize Mechanical Engineering experiments. Proven expertise in both Traditional and Deep Machine Learning, with extensive hands-on research experience.
+ EXPERIENCE 1 
+
+
+I have written over 50 technical articles about applying Machine Learning to real-world problems, garnering over 50,000 monthly views.
+ EXPERIENCE 2 
+
+
+Utilizing Deep Learning to dramatically reduce MRI scan times
+ EXPERIENCE 3 
+
+
+I recently completed my Bachelor's thesis, where I used a Deep Neural Network to predict the next solar cycle. My research was focused on finding a reliable method to forecast solar activity, which could be used to inform decisions in the energy sector. I used a variety of data sources and techniques to develop a model that could accurately predict the next solar cycle. My findings were presented in a detailed report and I am confident that this research could be used to inform decisions in the energy sector.
